@@ -1,16 +1,23 @@
-## Hi there 👋
+# I'm Joe Kika
 
-<!--
-**josephjkika/josephjkika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's 3 things about me: 
+I'm 17 years old, I can code in Java and Python and *wish* I made a github account sooner
 
-Here are some ideas to get you started:
+### Im currently working on
+- college java project 😞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Im also working on
+- procedural maze game in java 🕹
+
+### Hobbies
+- I like coding, writing and playing guitar
+- I also unhealthily love Doctor Who and the Beatles
+
+### Contact me (?)
+- [Email](mailto:josephjkika@gmail.com)
+- [Instagram](https://www.instagram.com/josephjkika/)
+
+
+
+finally, an inspirational quote
+> I am the walrus, goo goo g'joob
